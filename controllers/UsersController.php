@@ -14,5 +14,3 @@ class UsersController extends Controller {
      return  $this->render('index', ['users'=>$users]);
     }
 }
-
-
